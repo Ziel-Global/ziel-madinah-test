@@ -1,0 +1,30 @@
+# Page snapshot
+
+```yaml
+- button "close":
+  - img
+- text: Welcome to Madinah
+- heading "Sign in to the platform" [level=4]
+- text: Email*
+- textbox "Email*"
+- paragraph: Please enter your email address
+- text: Password*
+- textbox "Password*"
+- button "toggle password visibility"
+- paragraph: 0/12.
+- text: Forgot your password? Madinah
+- link "terms of service":
+  - /url: /terms-and-conditions
+- text: and
+- link "privacy notice.":
+  - /url: /privacy-policy
+- button "Confirm" [disabled]
+- separator: or
+- button "social-auth-btn":
+  - img "social-auth-btn"
+- button "social-auth-btn":
+  - img "social-auth-btn"
+- button "social-auth-btn":
+  - img "social-auth-btn"
+- text: Don't have an account yet? Sign up
+```
