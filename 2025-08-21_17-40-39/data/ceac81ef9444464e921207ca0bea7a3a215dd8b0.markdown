@@ -1,0 +1,12 @@
+# Page snapshot
+
+```yaml
+- button "close":
+  - img
+- paragraph: this is test default upsell
+- paragraph: this is test default upsell
+- img "campaign-cover-photo"
+- paragraph: this is test default upsell
+- button "yes"
+- button "no"
+```
