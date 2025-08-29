@@ -1,0 +1,58 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "logo":
+    - /url: /
+    - img "logo"
+  - button "button":
+    - img
+  - button "Options":
+    - img
+- main:
+  - button "Back":
+    - img
+    - text: Back
+  - paragraph: Donations you've made
+  - tablist "basic tabs example":
+    - tab "Recurring donations" [selected]
+    - tab "Donation history"
+  - button "Receipts"
+  - tabpanel "Recurring donations":
+    - table:
+      - rowgroup:
+        - row "Next donation date Amount Frequency Payment method":
+          - cell "Next donation date":
+            - text: Next donation date
+            - img
+          - cell "Amount":
+            - text: Amount
+            - img
+          - cell "Frequency":
+            - text: Frequency
+            - img
+          - cell "Payment method"
+      - rowgroup:
+        - row "August 20, 2025 $ 29 Monthly Visa ****3220 button":
+          - cell "August 20, 2025"
+          - cell "$ 29"
+          - cell "Monthly"
+          - cell "Visa ****3220 button":
+            - img "Visa"
+            - text: "****3220"
+            - button "button":
+              - img
+    - navigation "pagination navigation":
+      - list:
+        - listitem:
+          - button "Go to previous page" [disabled]
+        - listitem:
+          - button "page 1": "1"
+        - listitem:
+          - button "Go to next page" [disabled]
+    - combobox [disabled]: 5 per page
+    - button "Open":
+      - img
+    - paragraph
+- alert
+```
