@@ -1,0 +1,43 @@
+# Page snapshot
+
+```yaml
+- status: For your security, your session has timed out due to inactivity. Please log in again to continue.
+- banner:
+  - button "Sign In"
+  - link "logo":
+    - /url: /
+    - img "logo"
+  - button "button":
+    - img
+  - button "Options":
+    - img
+- main:
+  - button "Back":
+    - img
+    - text: Back
+  - paragraph: Donations you've made
+  - tablist "basic tabs example":
+    - tab "Recurring donations" [selected]
+    - tab "Donation history"
+  - button "Receipts"
+  - tabpanel "Recurring donations":
+    - table:
+      - rowgroup:
+        - row "Next donation date Amount Frequency Payment method":
+          - cell "Next donation date":
+            - text: Next donation date
+            - img
+          - cell "Amount":
+            - text: Amount
+            - img
+          - cell "Frequency":
+            - text: Frequency
+            - img
+          - cell "Payment method"
+      - rowgroup:
+        - row:
+          - cell:
+            - progressbar:
+              - img
+- alert
+```
