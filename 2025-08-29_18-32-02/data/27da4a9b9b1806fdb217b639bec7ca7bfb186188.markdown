@@ -1,0 +1,145 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - button "Sign In"
+  - link "logo":
+    - /url: /
+    - img "logo"
+  - button "button":
+    - img
+  - button "Options":
+    - img
+- text: Your browser does not support HTML5 video.
+- paragraph: Trusted fundraising for all of life's moments
+- paragraph: Get help. Give kindness. Start in just 5 minutes.
+- link "Start fundraising":
+  - /url: /create-campaign
+  - button "Start fundraising"
+- main:
+  - main:
+    - paragraph: Featured Campaigns
+    - button "button" [disabled]:
+      - img
+    - button "button" [disabled]:
+      - img
+    - img "fundraiser-option"
+    - paragraph: QA staging
+    - paragraph: thsusssssssssssssssssssssss
+    - paragraph: $179,159 raised
+    - paragraph: $10,000,000 goal
+    - img "fundraiser-option"
+    - paragraph: donation checking
+    - paragraph: thsusssssssssssssssssssssss
+    - paragraph: $3,068 raised
+    - paragraph: $1,282 goal
+    - img "fundraiser-option"
+    - paragraph: "Doublbe Your Impact: Give One Meal, Provide 2! stagging"
+    - paragraph:
+      - paragraph: "-"
+    - paragraph: $13,340 raised
+    - paragraph: $1 goal
+    - img "fundraiser-option"
+    - paragraph: A Ray of Hope (Donate to Orphans)
+    - paragraph:
+      - paragraph: "-"
+    - paragraph: $90,419 raised
+    - paragraph: $5,000 goal
+    - img "fundraiser-option"
+    - paragraph: Knowledge for all
+    - paragraph: Help to start a campaign for providing elementary school education
+    - paragraph: $2,983 raised
+    - paragraph: $35,931 goal
+    - link "Discover Fundraisers":
+      - /url: /discover
+    - paragraph: Voices of Madinah
+    - img "user-image"
+    - paragraph: Dr Yusuf Abdul-Jobbar
+    - paragraph: Imam, Author & Lecturer
+    - img "user-image"
+    - paragraph: Sh Musleh Khan
+    - paragraph: Imam, Teacher & International Speaker
+    - img "user-image"
+    - paragraph: Sh Abdullah Hakim Quick
+    - paragraph: Imam, Scholar, Historian & Author
+    - img "user-image"
+    - paragraph: Sh Alaa Elsayed
+    - paragraph: Imam, Teacher & International Speaker
+    - img "user-image"
+    - paragraph: Dr Waleed Hakeem
+    - paragraph: The Travelling Imam
+    - img "user-image"
+    - paragraph: Sh Abdullah Misra
+    - paragraph: Imam, Scholar, Religious Counselor
+    - paragraph: Help happens here
+    - paragraph: Madinah is a platform where communities from around the world come together to make a difference. Explore cities that are receiving the most donations right now.
+    - img
+    - paragraph: Recent campaigns
+    - button "button" [disabled]:
+      - img
+    - paragraph: Mosque Aid
+    - paragraph:
+      - paragraph: "-"
+    - paragraph: new campaign upsell
+    - paragraph:
+      - paragraph: "-"
+    - paragraph: new campaign upsell
+    - paragraph:
+      - paragraph: "-"
+    - button "button":
+      - img
+    - paragraph: Our Categories
+    - button "button" [disabled]:
+      - img
+    - button "Refugee Giving to this fund means you’re directly helping people across the country access essentials, like finding a hot meal or a safe place to sleep.":
+      - paragraph: Refugee
+      - paragraph: Giving to this fund means you’re directly helping people across the country access essentials, like finding a hot meal or a safe place to sleep.
+    - button "Multimedia Giving to this fund means you’re directly helping people across the country access essentials, like finding a hot meal or a safe place to sleep.":
+      - paragraph: Multimedia
+      - paragraph: Giving to this fund means you’re directly helping people across the country access essentials, like finding a hot meal or a safe place to sleep.
+    - button "Mosque/Com... Giving to this fund means you’re directly helping people across the country access essentials, like finding a hot meal or a safe place to sleep.":
+      - paragraph: Mosque/Com...
+      - paragraph: Giving to this fund means you’re directly helping people across the country access essentials, like finding a hot meal or a safe place to sleep.
+    - button "Women Giving to this fund means you’re directly helping people across the country access essentials, like finding a hot meal or a safe place to sleep.":
+      - paragraph: Women
+      - paragraph: Giving to this fund means you’re directly helping people across the country access essentials, like finding a hot meal or a safe place to sleep.
+    - button "Health Giving to this fund means you’re directly helping people across the country access essentials, like finding a hot meal or a safe place to sleep.":
+      - paragraph: Health
+      - paragraph: Giving to this fund means you’re directly helping people across the country access essentials, like finding a hot meal or a safe place to sleep.
+    - button "button":
+      - img
+    - paragraph: How Madinah Works
+    - link "Learn More":
+      - /url: /how-it-works
+    - paragraph: Madinah provides the optimal backdrop for your fundraising endeavors, whether you are an individual, group or organization
+    - paragraph: Organizations we work with
+    - button "button":
+      - img
+    - button "button":
+      - img
+    - paragraph: Fundraise for anyone
+    - paragraph: Yourself
+    - paragraph: Funds are delivered to your bank account for your own use
+    - img
+    - paragraph: Friends & Family
+    - paragraph: You'll invite a beneficiary to receive funds or distribute them yourself
+    - img
+    - paragraph: Charity
+    - paragraph: Funds are delivered to your chosen nonprofit for you
+    - img
+- contentinfo:
+  - paragraph:
+    - link "About Us":
+      - /url: /about-us
+  - paragraph:
+    - link "Privacy Policy":
+      - /url: /privacy-policy
+  - paragraph:
+    - link "Terms & Conditions":
+      - /url: /terms-and-conditions
+  - link "logo":
+    - /url: /
+    - img "logo"
+  - paragraph: ©2025 Madinah
+- alert: Madinah
+```

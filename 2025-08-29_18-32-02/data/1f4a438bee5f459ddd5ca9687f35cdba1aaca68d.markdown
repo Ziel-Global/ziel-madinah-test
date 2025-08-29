@@ -1,0 +1,101 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - button "Sign In"
+  - link "logo":
+    - /url: /atc#
+    - img "logo"
+  - button "Options":
+    - img
+- main:
+  - paragraph
+  - heading "🧪Automated Testing Campaign 🧪" [level=1]
+  - heading "<h1> <strong> The people of Gaza need our help now more than ever </strong> </h1>" [level=4]
+  - img "campaign-cover-photo"
+  - paragraph:
+    - paragraph: 🧪Automated Testing Campaign 🧪
+    - heading "The people of Gaza need our help now more than ever" [level=1]:
+      - strong: The people of Gaza need our help now more than ever
+  - paragraph:
+    - img
+    - paragraph: Report fundraiser
+  - paragraph: Organizer
+  - img
+  - text: Omar Ouaziz
+  - img
+  - text: Belgium
+  - button "Contact":
+    - paragraph: Contact
+  - paragraph: 18 days ago
+  - img
+  - paragraph: Palestine
+  - paragraph: Recent Supporters
+  - img
+  - paragraph: John Doe
+  - paragraph: $67.62 USD, Just now
+  - img
+  - paragraph: John Doe
+  - paragraph: $67.62 USD, Just now
+  - img
+  - paragraph: John Doe
+  - paragraph: $58 USD, Just now
+  - img
+  - paragraph: John Doe
+  - paragraph: $67.62 USD, 1 minute ago
+  - button "View more supporters"
+  - paragraph: $71,620
+  - paragraph: raised of $582,550goal
+  - paragraph: 1616 supporters
+  - button "Donate Now"
+  - button "Share"
+  - combobox "USD"
+  - button "Open":
+    - img
+  - paragraph
+  - text: Most Needed
+  - paragraph: Clean Water
+  - paragraph: $58
+  - text: Supplies clean drinking water
+  - paragraph: 898 claimed
+  - button "Donate $58"
+  - paragraph: Emergency Food
+  - paragraph: $117
+  - text: Provides emergency food supplies including hot meals
+  - paragraph: 0 claimed
+  - button "Donate $117"
+  - paragraph: Tents and Food
+  - paragraph: $233
+  - text: Provides a tent and emergency food supplies including hot meals
+  - paragraph: 0 claimed
+  - button "Donate $233"
+  - paragraph: Vegetables
+  - paragraph: $29
+  - text: Provides a supply of fresh vegetables
+  - paragraph: 248 claimed
+  - img
+  - paragraph: Monthly
+  - button "Donate $29"
+  - paragraph: Friday sadaka
+  - paragraph: $17
+  - text: Friday sadaka
+  - paragraph: 0 claimed
+  - img
+  - paragraph: Every Friday
+  - button "Donate $17"
+- contentinfo:
+  - paragraph:
+    - link "About Us":
+      - /url: /about-us
+  - paragraph:
+    - link "Privacy Policy":
+      - /url: /privacy-policy
+  - paragraph:
+    - link "Terms & Conditions":
+      - /url: /terms-and-conditions
+  - link "logo":
+    - /url: /atc#
+    - img "logo"
+  - paragraph: ©2025 Madinah
+- alert
+```
