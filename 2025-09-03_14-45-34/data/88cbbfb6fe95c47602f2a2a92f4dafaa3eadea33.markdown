@@ -1,0 +1,72 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "logo":
+    - /url: /atc#
+    - img "logo"
+  - button "Options":
+    - img
+- main:
+  - paragraph
+  - heading "🧪Automated Testing Campaign 🧪" [level=1]
+  - heading "<h1> <strong> The people of Gaza need our help now more than ever </strong> </h1>" [level=4]
+  - img "campaign-cover-photo"
+  - paragraph:
+    - paragraph: 🧪Automated Testing Campaign 🧪
+    - heading "The people of Gaza need our help now more than ever" [level=1]:
+      - strong: The people of Gaza need our help now more than ever
+  - paragraph:
+    - img
+    - paragraph: Report fundraiser
+  - paragraph: Organizer
+  - img
+  - text: Omar Ouaziz
+  - img
+  - text: Belgium
+  - button "Contact":
+    - paragraph: Contact
+  - paragraph: 22 days ago
+  - img
+  - paragraph: Palestine
+  - paragraph: Recent Supporters
+  - img
+  - paragraph: Test99 Test99
+  - paragraph: $67.55 USD, Just now
+  - img
+  - paragraph: John Doe
+  - paragraph: $67.55 USD, Just now
+  - img
+  - paragraph: John Doe
+  - paragraph: $11.65 USD, Just now
+  - img
+  - paragraph: John Doe
+  - paragraph: $67.55 USD, Just now
+  - button "View more supporters"
+  - paragraph: Additional Information
+  - paragraph: Help us with out efforts, let us know why you donated to our cause. (optional)
+  - text: "*"
+  - textbox "*"
+  - paragraph: 0/5000 characters
+  - button "Continue"
+  - separator
+  - text: Is my donation secure? Is this donation tax-deductible? Can I cancel my recurring donation?
+- contentinfo:
+  - paragraph:
+    - link "About Us":
+      - /url: /about-us
+  - paragraph:
+    - link "Privacy Policy":
+      - /url: /privacy-policy
+  - paragraph:
+    - link "Terms & Conditions":
+      - /url: /terms-and-conditions
+  - paragraph:
+    - link "Blog":
+      - /url: https://blog.madinah.com/
+  - link "logo":
+    - /url: /atc#
+    - img "logo"
+  - paragraph: ©2025 Madinah
+- alert
+```
