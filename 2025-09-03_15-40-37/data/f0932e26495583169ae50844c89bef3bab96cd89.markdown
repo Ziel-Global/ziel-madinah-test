@@ -1,0 +1,14 @@
+# Page snapshot
+
+```yaml
+- button "close":
+  - img
+- paragraph: this is default upsell
+- paragraph: default upsell
+- img "campaign-cover-photo"
+- paragraph: default upsell
+- img
+- paragraph: Monthly
+- button "yes"
+- button "no"
+```
