@@ -1,0 +1,303 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - button "Sign In"
+  - link "logo":
+    - /url: /Kevser-refugee#
+    - img "logo"
+  - button "Options":
+    - img
+- main:
+  - paragraph
+  - 'heading "Urgent Appeal: Deliver Life-Saving Aid to Gaza" [level=1]'
+  - heading "Join Kevser in Providing Families with Hot Meals and Clean Water" [level=4]
+  - iframe
+  - paragraph:
+    - heading "story_image_1" [level=1]:
+      - img "story_image_1"
+    - paragraph
+    - paragraph:
+      - img "story_image_2"
+    - paragraph
+    - paragraph: "In 2023-2024, Kevser’s food and water programs supported:"
+    - paragraph
+    - paragraph: ⭐ 1,000 children in Gaza
+    - paragraph
+    - paragraph: Your generous donation will help Kevser continue distributing food and water to displaced families barely surviving in Gaza.
+    - paragraph
+    - heading "Gaza Needs Us NOW!" [level=1]:
+      - strong: Gaza Needs Us NOW!
+    - paragraph
+    - paragraph: As we go about our lives in comfort and safety, the people of Gaza are enduring unimaginable suffering.
+    - paragraph
+    - paragraph: They’re being bombed relentlessly. There’s no food. No water. No shelter. No safety.
+    - paragraph
+    - paragraph: Mothers are burying their children. Fathers are digging through rubble, hoping to find their loved ones alive.
+    - paragraph
+    - paragraph: Children are starving — malnourished and weak, robbed of a normal childhood. They should be playing, learning, laughing, instead, they are left with broken dreams and constant fear.
+    - paragraph
+    - paragraph: Over 38,000 children have lost one or both parents.
+    - paragraph
+    - paragraph: These children deserve love, protection, and the chance to grow up — like every child in the world. How can we go on with our lives, knowing this is how they’re living?
+    - paragraph
+    - paragraph:
+      - img "story_image_3"
+    - paragraph
+    - heading "Famine in Gaza" [level=1]:
+      - strong: Famine in Gaza
+    - paragraph
+    - paragraph: Gaza is on the brink of a full-scale famine. Those who survived the bombing are now dying from starvation.
+    - paragraph
+    - paragraph: Families are surviving on scraps. Children cry themselves to sleep with empty stomachs.
+    - paragraph
+    - paragraph: Parents are forced to choose which child eats and which one goes hungry. It’s a devastating reality no one should ever face.
+    - paragraph
+    - paragraph:
+      - img "story_image_4"
+    - paragraph
+    - paragraph: Mothers are watching their babies waste away.
+    - paragraph
+    - paragraph: "Since October 7, 2023, Gaza has experienced unbearable devastation:"
+    - paragraph
+    - paragraph: 🔹 Over 61,000 lives lost
+    - paragraph
+    - paragraph: 🔹 More than 111,000 injured
+    - paragraph
+    - paragraph: 🔹 87% of homes damaged or destroyed
+    - paragraph
+    - paragraph: 🔹 80% of businesses wiped out
+    - paragraph
+    - paragraph: 🔹 68% of cropland devastated
+    - paragraph
+    - paragraph: 🔹 1.95 million people in Gaza — 91% of the population — are facing acute food insecurity classified as IPC Phase 3 (Crisis) or worse.
+    - paragraph
+    - paragraph: 🔹 876,000 are experiencing emergency levels (IPC Phase 4)
+    - paragraph
+    - paragraph: 🔹 345,000 individuals are classified at catastrophic levels (IPC Phase 5)
+    - paragraph
+    - paragraph: Every hour that passes without action means more lives are at risk.
+    - paragraph
+    - paragraph:
+      - img "story_image_5"
+    - paragraph:
+      - img "story_image_6"
+    - paragraph
+    - heading "Together We Can Ease Their Suffering" [level=1]:
+      - strong: Together We Can Ease Their Suffering
+    - paragraph
+    - paragraph: Kevser’s team is on the ground, cooking and distributing hot nutritious meals and clean water to families who have lost everything. But we can’t do it alone.
+    - paragraph
+    - paragraph: With your help, a father can put food on the table. A child can go to bed with a full stomach.
+    - paragraph
+    - paragraph: And a mother can finally breathe easier, knowing her family is safe for one more night.
+    - paragraph
+    - paragraph: Imagine the happiness they would feel — knowing that someone, somewhere, cared enough to help and imagine the immense rewards you’ll receive from Allah SWT for being the reason someone survived.
+    - paragraph
+    - paragraph:
+      - img "story_image_7"
+    - paragraph:
+      - img "story_image_8"
+    - paragraph:
+      - img "story_image_9"
+    - paragraph
+    - paragraph: Kevser is on a mission to be the voice and hope of millions of people worldwide who are facing difficult circumstances and struggling to survive.
+    - paragraph
+    - paragraph: Their work goes beyond providing immediate relief. Kevser focuses on restoring dignity and stability to families, offering essentials like food, clean water, medical supplies, and shelter to those living in unimaginable hardship.
+    - paragraph
+    - paragraph:
+      - img "story_image_10"
+    - paragraph:
+      - img "story_image_11"
+    - paragraph
+    - paragraph: The gift of bread and a hot meal can save lives.
+    - paragraph
+    - paragraph: ⭐ Bread is packed with essential vitamins and nutrients for energy and survival.
+    - paragraph
+    - paragraph: ⭐ Hot meals can be the difference between illness and health, between despair and survival.
+    - paragraph
+    - paragraph:
+      - img "story_image_12"
+    - paragraph:
+      - img "story_image_13"
+    - paragraph
+    - paragraph: The gift of food baskets provides much-needed security.
+    - paragraph
+    - paragraph: ⭐ Food baskets provide families with sustenance and a sense of security, alleviating the toll that food insecurity has on their mental health.
+    - paragraph
+    - paragraph:
+      - img "story_image_14"
+    - paragraph
+    - heading "Send Them Life-Saving Food & Water" [level=1]:
+      - strong: Send Them Life-Saving Food & Water
+    - paragraph
+    - paragraph: Your Help Can Save Lives in Gaza
+    - paragraph
+    - paragraph: "By donating to support Kevser’s bread, food, and water projects, you can help make a massive difference in the lives of the 2.2 million people in Gaza and share in the abundant reward of:"
+    - paragraph
+    - paragraph: 🍞 Providing delicious, warm bread that protects them from malnourishment.
+    - paragraph
+    - paragraph: 🥣 Offering them the relief of food security with food baskets filled with essentials.
+    - paragraph
+    - paragraph: 💧 Supplying clean water.
+    - paragraph
+    - paragraph: 👦 Ensuring every poor soul survives hunger and thirst.
+    - paragraph
+    - paragraph: 🧼 Protecting them from preventable diseases and hygiene problems.
+    - paragraph
+    - paragraph: 🙂 Cultivating a sense of relief and security when their basic needs are met.
+    - paragraph
+    - paragraph: Join us in making a real impact for these displaced families who desperately need our help.
+    - paragraph
+    - paragraph: If anyone relieves a Muslim believer from one of the hardships of this worldly life, Allah will relieve him of one of the hardships of the Day of Resurrection.
+    - paragraph: "[Sahih Muslim]"
+    - paragraph
+    - paragraph: Do not hesitate…
+    - paragraph
+    - paragraph: Take Action TODAY
+    - paragraph
+    - paragraph: May Allah AWJ accept from us all.
+    - paragraph
+    - heading "About Madinah" [level=1]:
+      - strong: About Madinah
+    - paragraph
+    - paragraph: Similar to the community established by our Prophet ﷺ in Madinah, Madinah is an organization dedicated to changing the world. We believe that the best way to make a difference and impact more people is by working together, which is why we help registered non-profits fundraise to reach their goals.
+    - paragraph
+    - paragraph: To date, we have helped raise more than $10 million to support many projects and initiatives, both local and global. This includes building masjids, supporting education programs and Islamic centers, and assisting in relief efforts to help provide relief to thousands of families surviving through crises across the world.
+  - paragraph:
+    - paragraph: Report fundraiser
+  - paragraph: Organizer
+  - text: Kevser Organization for Human Relief & Development
+  - img
+  - text: Turkey
+  - button "Contact":
+    - paragraph: Contact
+  - paragraph: 9 months ago
+  - img
+  - paragraph: Palestine
+  - paragraph: Recent Supporters
+  - img
+  - paragraph: Anonymous
+  - paragraph: €9.85 EUR, 6 hours ago
+  - img
+  - paragraph: Alan Cruz
+  - paragraph: $23.2 USD, 10 hours ago
+  - img
+  - paragraph: Mohammed s... Sheikh
+  - paragraph: $21 USD, 16 hours ago
+  - img
+  - paragraph: Anonymous
+  - paragraph: $23.2 USD, 17 hours ago
+  - button "View more supporters"
+  - paragraph: $68,795
+  - paragraph: raised of $100,000goal
+  - paragraph: 1376 supporters
+  - button "Donate Now"
+  - button "Share"
+  - img "Tax Deductible"
+  - paragraph: Tax Deductible
+  - img "Secure Donation"
+  - paragraph: Secure Donation
+  - combobox "USD"
+  - button "Open":
+    - img
+  - paragraph
+  - text: Most Needed
+  - paragraph: Provide Clean Water for 20 families
+  - paragraph: $150
+  - text: Your contribution ensures 20 families' supply of clean, life-saving water.
+  - paragraph: 78 claimed
+  - button "Donate $150"
+  - paragraph: Nourish 2 Families for 15 Days
+  - paragraph: $50
+  - text: Your $50 donation provides two families with essential food baskets, each filled with the basic necessities to s... Show more
+  - paragraph: 291 claimed
+  - button "Donate $50"
+  - paragraph: Support 4 Families with Vital Supplies
+  - paragraph: $100
+  - text: A $100 donation ensures four families receive food baskets packed with everything they need to thrive for 15 days.
+  - paragraph: 89 claimed
+  - button "Donate $100"
+  - paragraph: Feed 10 Families for Half a Month
+  - paragraph: $250
+  - text: With $250, you can provide ten families with food baskets that will keep them nourished and healthy for 15 days.
+  - paragraph: 11 claimed
+  - button "Donate $250"
+  - paragraph: Sustain 20 Families Through Tough Times
+  - paragraph: $500
+  - text: Your generous $500 donation supplies twenty families with the essential food they need to get through the next 15 days.
+  - paragraph: 3 claimed
+  - button "Donate $500"
+  - paragraph: Bring Relief to 40 Families
+  - paragraph: $1,000
+  - text: A $1,000 donation delivers 40 families the food baskets they need to maintain their strength and dignity for 15 days.
+  - paragraph: 2 claimed
+  - button "Donate $1,000"
+  - paragraph: Empower 80 Families with Sustenance
+  - paragraph: $2,000
+  - text: Your $2,000 donation provides 80 families with the food baskets that will sustain them through the nex... Show more
+  - paragraph: 1 claimed
+  - button "Donate $2,000"
+  - paragraph: Transform Lives by Feeding 100 Families
+  - paragraph: $2,500
+  - text: With $2,500, you ensure that 100 families receive the nourishment they need to survive and thrive for the nex... Show more
+  - paragraph: 0 claimed
+  - button "Donate $2,500"
+  - paragraph: Nourish 5 Families with Fresh Bread for a Day
+  - paragraph: $20
+  - text: Extend a lifeline to 5 families by providing them with the comfort and sustenance of fresh bread for a full day.
+  - paragraph: 271 claimed
+  - button "Donate $20"
+  - paragraph: "Double the Impact: Feed 10 Families with Bread for a Day"
+  - paragraph: $40
+  - text: Your generosity will ensure 10 families receive the nourishment they need with fresh bread for an entire day.
+  - paragraph: 58 claimed
+  - button "Donate $40"
+  - paragraph: Provide Clean Water for 40 Refugees for a Month
+  - paragraph: $300
+  - text: Help 40 refugees stay healthy and hydrated with a month’s supply of clean water.
+  - paragraph: 0 claimed
+  - button "Donate $300"
+  - paragraph: "Provide Vital Nourishment: Bread for 25 Families for a Day"
+  - paragraph: $100
+  - text: Your generosity will ensure 10 families receive the nourishment they need with fresh bread for an entire day.
+  - paragraph: 3 claimed
+  - button "Donate $100"
+  - paragraph: "Sustain 50 Families: A Day’s Worth of Bread"
+  - paragraph: $200
+  - text: Help 50 families stay strong with the essential sustenance of fresh bread, enough to last them a full day.
+  - paragraph: 0 claimed
+  - button "Donate $200"
+  - paragraph: "Support 100 Families: A Day of Fresh Bread"
+  - paragraph: $400
+  - text: Bring hope to 100 families by providing them with the nourishment of fresh bread to carry them through the day.
+  - paragraph: 0 claimed
+  - button "Donate $400"
+  - paragraph: "Make an Extraordinary Impact: Feed 200 Families with Bread for a Day"
+  - paragraph: $800
+  - text: Your generous contribution will ensure that 200 families receive the life-sustaining gift of fresh bread for a full day.
+  - paragraph: 0 claimed
+  - button "Donate $800"
+  - paragraph: Commit to just $10 per month to help Kevser provide life-saving meals to those in need.
+  - paragraph: $10
+  - text: Commit to just $10 per month to help Kevser provide life-saving meals to those in need.
+  - paragraph: 55 claimed
+  - img
+  - paragraph: Monthly
+  - button "Donate $10"
+- contentinfo:
+  - paragraph:
+    - link "About Us":
+      - /url: /about-us
+  - paragraph:
+    - link "Privacy Policy":
+      - /url: /privacy-policy
+  - paragraph:
+    - link "Terms & Conditions":
+      - /url: /terms-and-conditions
+  - link "logo":
+    - /url: /Kevser-refugee#
+    - img "logo"
+  - paragraph: ©2025 Madinah
+- alert
+```
