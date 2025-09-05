@@ -98,6 +98,9 @@ export default defineConfig({
     {
       name: "teardown",
       testMatch: /.*teardown\.ts$/,
+      use: {
+        storageState: ".auth/login.json",
+      },
       dependencies: [
         "logged-in-parallel",
         "logged-in-sequential-donations",
