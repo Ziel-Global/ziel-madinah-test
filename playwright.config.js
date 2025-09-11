@@ -101,12 +101,7 @@ export default defineConfig({
       use: {
         storageState: ".auth/login.json",
       },
-      dependencies: [
-        "logged-in-parallel",
-        "logged-in-sequential-donations",
-        "logged-out-parallel",
-        "logged-out-sequential-donations",
-      ],
+      dependencies: ["logged-in-parallel"],
     },
   ],
 
