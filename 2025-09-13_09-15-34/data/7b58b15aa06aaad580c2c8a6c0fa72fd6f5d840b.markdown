@@ -1,0 +1,14 @@
+# Page snapshot
+
+```yaml
+- main:
+  - heading "madinah.com" [level=1]
+  - paragraph: Verify you are human by completing the action below.
+  - text: madinah.com needs to review the security of your connection before proceeding.
+- contentinfo:
+  - text: "Ray ID:"
+  - code: 97e685bf297417e0
+  - text: Performance & security by
+  - link "Cloudflare":
+    - /url: https://www.cloudflare.com?utm_source=challenge&utm_campaign=m
+```
