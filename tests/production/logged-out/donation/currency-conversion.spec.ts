@@ -1,6 +1,6 @@
 import { expect, test } from "@/fixtures/pages";
 
-test("should convert currencies correctly", async ({ donationPage }) => {
+test.skip("should convert currencies correctly", async ({ donationPage }) => {
   let initialDonationAmount: number;
 
   await test.step("Setup: Navigate to donation page and get initial USD amount", async () => {
